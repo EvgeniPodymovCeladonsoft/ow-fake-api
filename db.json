@@ -1,0 +1,14 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "email": "p1@p1.com",
+      "firstName" : "firstName",
+      "lastName" : "lastName",
+      "phone" : "12345678",
+      "allowNewsletter" : true,
+      "allowSms" : false,
+      "allowCleanupNotification": false
+    }
+  ]
+}
